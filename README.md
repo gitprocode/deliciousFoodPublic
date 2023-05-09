@@ -1,5 +1,10 @@
 **完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
 **接毕业设计和论文**
+**[博客地址](https://blog.csdn.net/2303_76227485/article/details/130564392)**
+**视频演示：
+[B站视频演示](https://www.bilibili.com/video/BV1bP4y1C75n/)**
+**毕业设计所有选题地址：
+[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于Springboot+vue的美食评测系统(源代码+数据库+13000字论文)
 
